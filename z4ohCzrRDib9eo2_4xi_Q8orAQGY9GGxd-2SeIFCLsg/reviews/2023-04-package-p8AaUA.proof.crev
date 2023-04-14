@@ -1,0 +1,21 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-04-14T10:21:42.536724353+02:00
+from:
+  id-type: crev
+  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
+package:
+  source: https://crates.io
+  name: cxxbridge-flags
+  version: 1.0.94
+  revision: 8d44aebd033a77dfcc472f7c21609ff2686816b4
+  digest: KiWVmsx0oZOOtzK4fKpa2hbwpKjpRad4Rh0lz4kg40k
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+H8PVdMHD4ctjtX9VFrpMxBR8w_2Wue5rbPEERyooSPAZ_JxmgJ-rhE9-MYHZHVzSk2EMxKFay7eISrct-gOsDw
+----- END CREV PROOF -----
+
