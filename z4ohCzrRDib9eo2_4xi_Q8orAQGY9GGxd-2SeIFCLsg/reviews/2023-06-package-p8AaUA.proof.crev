@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: 2023-06-13T13:54:05.995097910+02:00
+from:
+  id-type: crev
+  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
+package:
+  source: https://crates.io
+  name: chrono
+  version: 0.4.24
+  revision: daa86a77d36d74f474913fd3b560a40f1424bd77
+  digest: sUgEfjL1id9x-_tYicJTWQ5LOy080NkjPzUzwcjdbEo
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: |-
+  No real code review
+----- SIGN CREV PROOF -----
+NmXuMHJ4smspzLKwrjqzaX-zMVDo6RMmOQoHNiBhOugRa915E3L_IHb2VNKjsHyf2qg23qwpnOcnwVpFbovXBw
+----- END CREV PROOF -----
+
