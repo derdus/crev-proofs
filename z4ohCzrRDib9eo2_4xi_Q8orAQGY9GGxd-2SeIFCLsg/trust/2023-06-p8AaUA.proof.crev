@@ -1,57 +1,6 @@
 ----- BEGIN CREV PROOF -----
 kind: trust
 version: -1
-date: 2023-06-23T23:49:07.577714610+02:00
-from:
-  id-type: crev
-  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
-  url: https://github.com/derdus/crev-proofs
-ids:
-- id-type: crev
-  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
-  url: https://github.com/derdus/crev-proofs
-trust: high
------ SIGN CREV PROOF -----
-0V8N0I32Hb-VHvlv0h_ywJL4CSKpx8AyCLpBRj80KHRErwqEHk8PvZkcroRohmDqkr3WfmQcCBeWXTms0THPBg
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
-date: 2023-06-23T23:57:22.273908767+02:00
-from:
-  id-type: crev
-  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
-  url: https://github.com/derdus/crev-proofs
-ids:
-- id-type: crev
-  id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
-  url: https://github.com/dpc/crev-proofs
-trust: none
------ SIGN CREV PROOF -----
-gQiPgIY5k4qx5w09jNF1vHB_Q36mmmevvTgF1yOTGvQQ8P2vFFw0NzeBd4WiOOUA2fnpNnZDoFEmsAk7jU4SCw
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
-date: 2023-06-23T23:57:36.268614100+02:00
-from:
-  id-type: crev
-  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
-  url: https://github.com/derdus/crev-proofs
-ids:
-- id-type: crev
-  id: z4ohCzrRDib9eo2_4xi_Q8orAQGY9GGxd-2SeIFCLsg
-  url: https://github.com/derdus/crev-proofs
-trust: high
------ SIGN CREV PROOF -----
-MlIlBXA420nxrjnSNj4J3AvptLaL1BhfR9cWEMj8qJG7nOefb7TEbVw8yuHc8l-v47NHZfp7ALIGsAq7Fs2yBA
------ END CREV PROOF -----
-
------ BEGIN CREV PROOF -----
-kind: trust
-version: -1
 date: 2023-06-27T16:05:11.640262110+02:00
 from:
   id-type: crev
